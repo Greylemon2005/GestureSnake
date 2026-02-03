@@ -33,3 +33,4 @@ GestureSnake 是一个基于 **MediaPipe Hands** 的手势控制贪吃蛇应用�
 
 ## 🧩 Project Structure
 
+![Uploading GestureSnake.jpg…]()
